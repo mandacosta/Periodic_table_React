@@ -8,7 +8,7 @@ This projects aims to be union of my background with my future carreer. In this 
 
 <a href="https://www.linkedin.com/posts/amandacosta94_html-css-javascript-activity-6955944016559370240-iNj-?utm_source=share&utm_medium=member_desktop"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
-Vercel: <a href="https://mandacosta.github.io/Projeto_Front-end_1/" target:_blank> link </a>
+Vercel: <a href="https://periodic-table-teal.vercel.app/" target:_blank> link </a>
 
 
 
@@ -21,4 +21,4 @@ Este projeto é união da minha formação com a minha futura carreira. Neste SP
 
 <a href="https://www.linkedin.com/posts/amandacosta94_html-css-javascript-activity-6955944016559370240-iNj-?utm_source=share&utm_medium=member_desktop"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
-Vercel: <a href="https://mandacosta.github.io/Projeto_Front-end_1/" target:_blank> link </a>
+Vercel: <a href="https://periodic-table-teal.vercel.app/" target:_blank> link </a>
