@@ -6,7 +6,7 @@ This projects aims to be union of my background with my future carreer. In this 
 
 👀 Please, feel free to check my LinkedIn post about this project:
 
-<a href="https://www.linkedin.com/posts/amandacosta94_html-css-javascript-activity-6955944016559370240-iNj-?utm_source=share&utm_medium=member_desktop"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6985301352352505856/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
 Vercel: <a href="https://periodic-table-teal.vercel.app/" target:_blank> link </a>
 
@@ -19,6 +19,6 @@ Este projeto é união da minha formação com a minha futura carreira. Neste SP
 
 👀 Por favor, fique à vontade para conferir meu post no LinkedIn sobre esse projeto:
 
-<a href="https://www.linkedin.com/posts/amandacosta94_html-css-javascript-activity-6955944016559370240-iNj-?utm_source=share&utm_medium=member_desktop"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6985301352352505856/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
 Vercel: <a href="https://periodic-table-teal.vercel.app/" target:_blank> link </a>
