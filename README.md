@@ -2,6 +2,8 @@
 ## Personal Project <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 50px;"/> </a>
           
 ### 🇬🇧 en
+First personal project using React !
+
 This projects aims to be union of my background with my future carreer. In this SPA (single page application) I practice basic concepts in React and create a fun application that can be of use for young chemistry students. Please, feel free to guve me tips on new functionalities.
 
 👀 Please, feel free to check my LinkedIn post about this project:
